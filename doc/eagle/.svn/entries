@@ -1,0 +1,80 @@
+8
+
+dir
+20
+file:///Users/alex/local/svn/localsvn/avr/rgb_firefly/doc/eagle
+file:///Users/alex/local/svn/localsvn
+
+
+
+2008-05-25T11:15:39.083700Z
+20
+alex
+
+
+svn:special svn:externals svn:needs-lock
+
+rgb_firefly.brd
+file
+
+
+
+
+2008-05-25T11:00:06.000000Z
+ebe9181bf76458f995ad676f36447415
+2008-05-25T11:15:39.083700Z
+20
+alex
+has-props
+
+rgb_firefly_20080525_v2.1.sch
+file
+21
+
+
+
+2008-05-24T14:16:59.000000Z
+01c73363a3dcf2aa1c8d16ac60e8a203
+2008-05-26T22:53:10.674609Z
+21
+alex
+has-props
+
+rgb_firefly.sch
+file
+
+
+
+
+2008-05-24T14:16:59.000000Z
+01c73363a3dcf2aa1c8d16ac60e8a203
+2008-05-25T11:15:39.083700Z
+20
+alex
+has-props
+
+rgb_firefly.pro
+file
+
+
+
+
+2008-05-25T10:17:55.000000Z
+a3cee3cb3d8cac9be43817a7104384a2
+2008-05-25T11:15:39.083700Z
+20
+alex
+
+rgb_firefly_20080525_v2.1.brd
+file
+21
+
+
+
+2008-05-26T22:19:14.000000Z
+10f88828964a48105e25c4654141eb80
+2008-05-26T22:53:10.674609Z
+21
+alex
+has-props
+
